@@ -317,9 +317,13 @@ Strings can be a collection of letters, symbols and/or numbers. They are made by
 
 They can use double quotes or single quotes. Make sure they are matching and the string does not contain any breaking quotes inside it!
 
-If it might you may want use the newer back-tick ` way creating a string. Called a template literal. We'll see some extra features of these in a minute!
+If you need to include a single quote in a single quote string we can use the escape character `\` backslash in our string. `console.log('Sage\'s string')`
+
 
 Can we add strings together? Try it out!
+
+
+
 
 #### Print strings with variable in them:
 
@@ -337,7 +341,10 @@ console.log(s);
 ```
 
 A newer ES6 way! 
-This is much cleaner and easier to edit later.
+
+You may want to use the the newer back-tick ` way creating a string. Called a template literal. 
+
+This is much cleaner and easier to edit later in my opinion
 
 **note** The string containing the variable using back-ticks |  ` | not single quotes. 
 
@@ -352,6 +359,11 @@ console.log(s);
 
 ```
 
+### Challenge
+
+Make 3 variables and use them in your own string. Print out the string with `console.log`
+
+
 ### Booleans:
 You can think of Booleans as yes(true) and no(false)
 
@@ -362,6 +374,8 @@ We'll go into how to use these in a little bit. For now just remember they exist
 ### Arrays (lists):
 
 Often used to store a list of values.
+
+Arrays use `[]` square brackets
 
 #### Create array
 
@@ -420,11 +434,37 @@ console.log(tvshows);
 tvshows.pop();
 console.log(tvshows);
 
-// Target item to remove
-tvshows.splice(0, 2)
+delete tvshows[1];
+console.log(tvshows);
 
+```
 
-// print the first item in array
+#### Splice 
+
+ add specific indexes with splice
+
+```
+var tvshows = ['West World','Mr. Robot', 'Game of Thrones', "Firefly"]
+
+console.log(tvshows);
+
+// index, how many to remove, optional items to add
+tvshows.splice(2, 0, "Breaking Bad", "Watchmen");
+
+console.log(tvshows);
+
+```
+
+remove specific indexes with splice
+
+```
+var tvshows = ['West World','Mr. Robot', 'Game of Thrones', "Firefly"]
+
+console.log(tvshows);
+
+// index, how many to remove, optional items to add
+tvshows.splice(2, 1,);
+
 console.log(tvshows);
 
 ```
