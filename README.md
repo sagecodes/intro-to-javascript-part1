@@ -3,7 +3,7 @@
 
 Start Learning Web Dev Basics with our free prep course! http://bit.ly/gsoftprep 
 
-Get to this repo by typing in URL: **jsrepo.sage.codes**
+Get to this repo by typing in URL: **js1.sage.codes**
 
 ### FAQ: 
 
@@ -37,23 +37,34 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 - Answer Questions!
 - Help others when you can
 - Its ok to get stuck, just ask for help!
-- Feel free to move ahead
 - Be patient and nice
 
-#### Here's what we'll be doing:
-* Overview of basic JavaScript concepts
-* How to Solve a common interview Question
-* Playing around and break things
+#### Part 1 (Tonight) we'll cover the basics of:
+
+- Variables
+- Strings
+- Numbers
+- Arrays
+- Objects
+- Conditionals
+- Loops
+- Put it all together to solve a classic computer science problem
 
 
+#### [Part 2 (Tomorrow) we'll cover the basics of](https://www.eventbrite.com/e/intro-to-programming-with-javascript-part-2-tickets-90372531675)
+ - Functions,
+ - Scopes
+ - putting it all together again!
 
+
+Again this will only be the basics and I hope it will serve as a great starting point for you!
+
+We could probably spend 2 hours on each one of these concepts. So you'll absolutely want to dive deeper in each topic! 
 
 
 ## About me:
 
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm Currently learning more about computer vision and deep learning deep learning!
-
-**Note:** I'm not a Galvanize Instructor, they're way better at teaching!
+Hello I'm [Sage Elliott](https://www.linkedin.com/in/sageelliott/). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm Currently learning more about computer vision and deep learning deep learning!
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
@@ -85,7 +96,7 @@ Give a quick Intro!
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
-- Get to this repo by typing in URL: **jsrepo.sage.codes**
+- Get to this repo by typing in URL: **js1.sage.codes**
 
 
 ## What is programming?
