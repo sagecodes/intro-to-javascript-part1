@@ -102,9 +102,15 @@ Give a quick Intro!
 ## What is programming?
 Simply put: Programming is giving your computer a set of instructions to perform a task. 
 
-This sounds simple but it can get complicated! 
+This sounds simple but it can get complicated! [Peanut Butter & Jelly Sandwich example](https://www.youtube.com/watch?v=XWe4iohhmIw)
 
 ## What is javaScript?
+
+A [interpreted](https://en.wikipedia.org/wiki/Interpreter_(computing)) programming language .
+
+Its NOT the programming language Java
+
+> The similarity of `Java` and `JavaScript` is comparable to `grapes` and `grapefruit`...
 
 ### A very brief history
 
@@ -127,7 +133,7 @@ Almost everyone!
 - Agencies
 - Pretty much anyone using web technology
 
-It's one of the safest languages to learn for getting a job!
+It's one of the safest languages to learn for getting a job as a developer.
 
 
 ### What can you do with JavaScript
@@ -138,19 +144,20 @@ It's one of the safest languages to learn for getting a job!
 - Mobile Development 
 - [Machine learning](https://js.tensorflow.org/) 😱
 - [Embedded(Hardware) Programming](http://ejs.co/) 😲
+- [Data Visualization](https://d3js.org/) 📊
 
 #### Popular Frameworks to keep in mind
 
 When learning more about JS you'll probably keep learning about these!
 
-- Node
-- Express
-- React
-- Angular
-- Vue
-
-
-
+- [Node](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [React](https://reactjs.org/)
+- [Angular](https://angular.io/)
+- [Vue](https://vuejs.org/)
+- [Next](https://nextjs.org/)
+- [d3](https://d3js.org/) 
+- [react native](https://facebook.github.io/react-native/)
 
 # JavaScript Basics: Lets code!
 
