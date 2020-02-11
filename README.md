@@ -202,7 +202,7 @@ console.log(twitter);
 
 ```
 
-**Note:** Semi semicolons. Think of them as statement separators. When in doubt use them. Especially if you're just stating out! 
+**Note:** Semi semicolons. Think of them as statement separators. When in doubt use them. Especially if you're just starting out! 
 
 You can read a little bit more about why [here](https://stackoverflow.com/questions/444080/do-you-recommend-using-semicolons-after-every-statement-in-javascript).
 
@@ -213,11 +213,11 @@ Another good [read](https://mariusschulz.com/blog/semicolons-after-function-decl
 
 ### Declaring Variables
 
-In newer versions of JavaScript you may see `let` or `const` used instead of `var`.
+In newer versions of JavaScript you will see is `let` or `const` used instead of `var`.
 
 - `Const` is used to declare variables you do not want to change later in your code. 
 
-- `let` is similar to `var`, but has a newer featured called block scoping and perhaps more importantly prevents name collision.
+- `let` is similar to `var`, but has a newer featured called block scoping(We'll talk more about scopes in part 2) and perhaps more importantly prevents name collision (We'll take a look at this below).
 
 ### Examples:
 
@@ -261,7 +261,7 @@ globalvar = 'by';
 Essentially `let` and `const` are considered "safer" to use.
 
 
-We're going to use `var` for the rest of the workshop today and we won't dive deeper into the differences today, but you can read more about `let` & `const` [here](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75). 
+You may see all variations for the rest of the workshop. Its OK to use what ever you want starting out, but industry is prefers the safer versions.
 
 
 ### Challenge: Get a users name
@@ -272,7 +272,7 @@ Create a variable called name and assign it your name. Use the `console.log` fun
 ## Interact with dialog boxes
 Using dialog boxes can be simple way to get started interacting with users.
 
-**Note**: These don't work in repl, but we can use them in our own files or in our developer console. I'll show you how to do this!
+**Note**: These don't work in repl anymore, but we can use them in our own files or in our developer console. I'll show you how to do this!
 
 Alert: Pop up information in a dialog box
 
@@ -286,11 +286,11 @@ Prompt: get information from a user in dialog box
 
 Use the `prompt()` function above to ask a user for a name, save it in a variable called `name` and print the variable using `console.log()`
 
-You will have to use your developer console for this one!
+You WILL have to use your developer console for this one!
 
 
 ## Data Types:
-We're going to stick with the basics, so We wont be going over EVERY data type in javascript, but you you can read a more comprehensive list [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures).  
+We're going to stick with the basics, so We wont be going over EVERY data type in javascript and not every detail, but you you can read a more comprehensive list [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures).  
 
 Feel free to try these code samples out in your [repl](https://repl.it/)!
 
@@ -707,7 +707,7 @@ Lets break it down and solve it together!
 
 # YOU DID IT! YOU'RE NOW A PROGRAMMER!
 
-### Welcome! :)
+### How do you feel?
 
 ### Keep learning!
 
@@ -735,17 +735,6 @@ Build project! You can start simple!
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
 - [Intro to Web Scraping](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-for-data-science-free-tickets-78222735307) - 11/6/19
-
-- [Data Science Demo Day](https://www.eventbrite.com/e/galvanize-seattle-data-science-demo-day-111419-tickets-72309552819) - 11/14/19
-
-- [Intro to SQL](https://www.eventbrite.com/e/intro-to-sql-free-tickets-78226727247) - 11/14/19
-
-- [Intro to Machine Learning with Python](https://www.eventbrite.com/e/intro-to-machine-learning-free-tickets-78301755659) - 11/20/19
-
-- [Breaking into Software Engineering / Web Development Discussion Panel](https://www.eventbrite.com/e/break-into-software-engineering-alumni-discussion-panel-seattle-tickets-72146364719) - 11/25/19
-
-
-
 
 
 
