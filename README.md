@@ -771,9 +771,7 @@ Build project! You can start simple!
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
-- [Intro to Web Scraping](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-for-data-science-free-tickets-78222735307) - 11/6/19
-
-
+What do you want to see next?
 
 # What is Galvanize?
 
@@ -793,8 +791,8 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - 12/09/19 & 2/10/2020
-- [Data Science](http://bit.ly/seadatascience) - 12/2/19 & 3/16/2020
+- [Software Engineer](http://bit.ly/seawebdev) -  Mar23 - Jun19 | May11 - Aug7
+- [Data Science](http://bit.ly/seadatascience) - Mar16 - Jun12 | Jun29 - Sep25 | Oct5 - Jan15
 
 Remote options:
 
